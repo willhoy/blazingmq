@@ -13,10 +13,11 @@
 ![OS AIX](https://img.shields.io/badge/OS-AIX-blue)
 ![OS Solaris](https://img.shields.io/badge/OS-Solaris-blue)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue)](LICENSE)
-![C++](https://img.shields.io/badge/C++-blue)
-![CMake](https://img.shields.io/badge/CMake-blue)
+[![C++](https://img.shields.io/badge/C++-blue)]()
+[![CMake](https://img.shields.io/badge/CMake-blue)](https://cmake.org/cmake/help/latest/)
 ![MessageQueue](https://img.shields.io/badge/MessageQueue-blue)
 [![Documentation](https://img.shields.io/badge/Documentation-blue)](https://bloomberg.github.io/blazingmq)
+
 
 # BlazingMQ - A Modern, High-Performance Message Queue
 
